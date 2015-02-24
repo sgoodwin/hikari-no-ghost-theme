@@ -47,7 +47,7 @@ nav.main-menu li:hover:before,nav.main-menu li:hover:after,nav.main-menu li:hove
 footer.main-footer{box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-webkit-box-sizing:border-box;-o-box-sizing:border-box;flex:0 0 auto;background:#efefef;border-top:0.1rem solid #ccc;padding:1rem;margin-top:8rem;font-size:1.6rem;text-align:center;}
 footer.main-footer>*{width:80%;max-width:75rem;margin-left:auto;margin-right:auto;}
 footer.main-footer p{line-height:2.25rem;}
-main{flex:1 0 auto;margin:0 auto;width:80%;max-width:75rem;}
+main{flex:1 0 auto;margin:0 auto;width:90%;max-width:75rem;}
 nav.pagination{text-align:center;margin-top:6rem;line-height:3.2rem;}
 nav.pagination span.page-number{margin-left:0.25rem;margin-right:0.25rem;display:inline-block;}
 nav.pagination span.page-number:not(:first-child):before,nav.pagination span.page-number:not(:last-child):after{display:inline-block;content:" ● ";margin-left:1rem;margin-right:1rem;color:#000;opacity:0.1;}
